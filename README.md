@@ -17,3 +17,7 @@ This is a transnational data set which contains all the transactions occurring b
 7. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. 
 8. Country: Country name. Nominal, the name of the country where each customer resides.
 
+### Tools/Libraries:
+
+We encourage you to use the programming language of your choice, however Python based tools/libraries are preferred.
+
