@@ -1,5 +1,5 @@
 # Create Customer Segments
-## Problem Statement: Build a model to group the customers into groups based on their purchase history
+## Problem Statement: Build a model to group the customers into segments based on their purchase history
 
 ### Data Set Information:
 
